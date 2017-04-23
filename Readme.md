@@ -1,3 +1,3 @@
 # uri-params
 
-uri-params
+Format uri with variables
