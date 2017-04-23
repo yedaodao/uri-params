@@ -1,0 +1,13 @@
+{
+  "name": "uri-params",
+  "version": "0.1.0",
+  "description": "",
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yedaodao/url-params.git"
+  },
+  
+  "author": "yedaodao",
+  "license": "MIT"
+}
