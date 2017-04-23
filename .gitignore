@@ -198,4 +198,7 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 
+# Custom
+.idea/
+
 # End of https://www.gitignore.io/api/OSX,Linux,WebStorm,SublimeText,node
