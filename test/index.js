@@ -93,4 +93,5 @@ test('uriParams()', async t => {
     t.is(uriParams('//example.com/:id/:ids', {ids: 1}), '//example.com/:id/1');
     t.is(uriParams('//example.com//:id//:ids', {ids: 1}), '//example.com//:id//1');
     t.is(uriParams('/example.com/:id/:ids', {ids: 1}), '/example.com/:id/1');
+    t.is(uriParams('/example.com/:id/:ids', {id: 1, ids: 2}), '/example.com/1/2');
 });
