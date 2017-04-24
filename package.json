@@ -13,6 +13,15 @@
   },
   "author": "yedaodao",
   "license": "MIT",
+  "keywords": [
+    "uri-params",
+    "url-params",
+    "browser",
+    "uri",
+    "params",
+    "variables",
+    "url"
+  ],
   "devDependencies": {
     "ava": "^0.19.1",
     "nyc": "^10.2.0",
