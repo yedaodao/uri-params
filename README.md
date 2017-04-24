@@ -1,5 +1,8 @@
 # uri-params
 
+[![Build Status](https://travis-ci.org/yedaodao/uri-params.svg?branch=master)](https://travis-ci.org/yedaodao/uri-params)
+[![Coverage Status](https://coveralls.io/repos/github/yedaodao/uri-params/badge.svg?branch=master)](https://coveralls.io/github/yedaodao/uri-params?branch=master)
+
 Format uri with variables. It can run both in Node.js runtime and browsers
 
 ## Get Started
