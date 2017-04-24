@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/yedaodao/url-params.git"
   },
-  "main": "./dist/uri-params.js",
   "scripts": {
     "dist": "webpack",
     "test": "ava ./test"
