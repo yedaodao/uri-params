@@ -69,6 +69,7 @@ test('formatter.parseUri()', async t => {
 });
 
 test('formatter.arrayToUri()', async t => {
+    t.is(arrayToUri(null), '');
     t.is(arrayToUri(['', 'abc', '']), '/abc/');
     t.is(arrayToUri(['http://', 'abc']), 'http://abc');
     t.is(arrayToUri(['http://', 'abc', '']), 'http://abc/');
