@@ -1,6 +1,6 @@
 {
   "name": "uri-params",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Format uri with variables. It can run both in Node.js runtime and browsers.",
   "repository": {
     "type": "git",
